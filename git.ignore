@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.vscode/
+*.json
+#Para los compilados
+ex*
+#Para el codigo fuente
+!*.c
