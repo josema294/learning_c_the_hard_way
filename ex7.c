@@ -30,7 +30,7 @@ int main(int argc, char*argcv[]){
     double expected_bugs = bugs * bug_rate;
     printf("youi are expected to have %f bugs. \n", expected_bugs);
 
-    double part_of_universe = expected_bugs / universe_of_defects;
+    double part_of_universe = expected_bugs / universe_of_defects;:ws:
     printf("Thats onle a %e portion of the universe.\n",part_of_universe);
 
     //this makes no sense, jkust a demo of something weird

@@ -7,7 +7,7 @@ Este repositorio contiene mi progreso y soluciones a los ejercicios propuestos e
 El repositorio está estructurado de la siguiente manera:
 
 - **Archivos fuente**: Los archivos `.c` contienen los ejercicios y soluciones en formato de código fuente.
-:q- **Makefile**: Archivo para automatizar el proceso de compilación.
+:q:wq- **Makefile**: Archivo para automatizar el proceso de compilación.
 
 ## Estructura del repositorio
 

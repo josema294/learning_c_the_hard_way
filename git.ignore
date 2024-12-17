@@ -7,4 +7,3 @@ ex*
 # Ignorar archivos temporales del editor
 *.kate-swp
 .vscode/
-:
