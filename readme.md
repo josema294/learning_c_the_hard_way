@@ -57,10 +57,12 @@ Para ejecutar o compilar los ejercicios necesitas:
 
 ### Ejercicios completados
 
-- [x] Ejercicio 1
-- [x] Ejercicio 3
-- [x] Ejercicio 7
-- [x] Ejercicio 8
+- [x] Ejercicio 1 Dust of Taht Compiler
+- [x] Ejercicio 3 Formatted Printing
+- [x] Ejercicio 7 Variables and types
+- [x] Ejercicio 8 If, Else-if,Else
+- [x] Ejercicio 9 While-Loop and Boolean Expressions
+- [x] Ejercicio 10 Switch Statements
 
 ### Ejercicios pendientes
 
