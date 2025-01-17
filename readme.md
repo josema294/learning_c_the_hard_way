@@ -17,6 +17,11 @@ El repositorio está estructurado de la siguiente manera:
 ├── ex3.c       # Ejercicio 3
 ├── ex7.c       # Ejercicio 7
 ├── ex8.c       # Ejercicio 8
+├── ex9.c       # Ejercicio 9
+├── ex10.c      # Ejercicio 10
+...
+...Continua con el resto de ejercicios
+...
 ├── Makefile    # Archivo para compilar los ejercicios
 ├── .gitignore  # Configuración para ignorar archivos no rastreados
 ```
@@ -63,6 +68,12 @@ Para ejecutar o compilar los ejercicios necesitas:
 - [x] Ejercicio 8 If, Else-if,Else
 - [x] Ejercicio 9 While-Loop and Boolean Expressions
 - [x] Ejercicio 10 Switch Statements
+- [x] Ejercicio 11: Arrays and Strings
+- [x] Ejercicio 12: Sizes and Arrays
+- [x] Ejercicio 13: For-Loops and Arrays of Strings
+- [x] Ejercicio 14: Writing and Using Functions
+- [x] Ejercicio 15: Pointers, Dreaded Pointers
+- [x] Ejercicio 16: Structs and Pointers to Them
 
 ### Ejercicios pendientes
 
